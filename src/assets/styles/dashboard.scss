@@ -1,0 +1,13 @@
+
+.dashboard-container {
+    padding: 20px;
+    .filter-btn {
+        margin-left: 20px;
+    }
+    .custom-table-header {
+        th {
+            background-color: black;
+            color: white;
+        }
+    }
+}

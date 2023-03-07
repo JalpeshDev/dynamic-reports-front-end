@@ -1,0 +1,27 @@
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.k-grid-header, .k-grid-footer{
+    padding-inline-end: unset !important
+}
+.k-grid-content{
+    overflow-y: unset !important
+}
